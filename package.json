@@ -1,0 +1,26 @@
+{
+  "name": "midleWare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoyonAhmed/Express-Middleware-PartSeven.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoyonAhmed/Express-Middleware-PartSeven/issues"
+  },
+  "homepage": "https://github.com/NoyonAhmed/Express-Middleware-PartSeven#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.18.3"
+  }
+}
